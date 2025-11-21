@@ -29,7 +29,7 @@ This is a simple and responsive Web Application which offer you to create a vide
 ### Installing
 After installing node clone the repo by using git
 ```
-$ git clone https://github.com/SanskarSehra/Microsoft_Teams.git
+$ git clone https://github.com/SanskarSehra/TeamConnect.git
 ```
 Or you can download the zip file.
 
@@ -60,6 +60,7 @@ or
 ```
 node server.ja
 ```
+
 
 
 
